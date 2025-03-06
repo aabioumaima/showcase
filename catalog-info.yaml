@@ -9,3 +9,4 @@ spec:
     - ./backstage/catalog/components.yaml
     - ./backstage/catalog/resources.yaml
     - ./backstage/catalog/templates.yaml
+  owner: maintainers
